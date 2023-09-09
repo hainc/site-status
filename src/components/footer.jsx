@@ -27,7 +27,7 @@ const Footer = () => {
           &nbsp;接口&nbsp;|&nbsp;检测频率 5 分钟
         </p>
         <p>
-          Copyright&nbsp;&copy;&nbsp;2020&nbsp;-&nbsp;{new Date().getFullYear()}
+          Copyright&nbsp;&copy;&nbsp;2015&nbsp;-&nbsp;{new Date().getFullYear()}
           &nbsp;
           <CustomLink to="https://www.haah.net/" text="辉哥博客" />
           {siteIcp ? (
